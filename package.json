@@ -26,9 +26,6 @@
   },
   "author": "Brian Ford",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/angular/zone.js/issues"
-  },
   "dependencies": {
     "es6-promise": "^3.0.2"
   },
